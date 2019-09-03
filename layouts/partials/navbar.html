@@ -1,0 +1,59 @@
+<nav class="navbar is-fixed-top has-shadow is-spaced" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="{{ .Site.BaseURL }}">
+                <!-- <img src="{{ .Site.BaseURL }}/img/logo-pipajaya.png" width="112" height="28"> -->
+                BAJA.CO.ID
+            </a>
+
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                data-target="navbarBasicExample">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link" href="{{ .Site.BaseURL }}/baja-ringan">
+                        Baja Ringan
+                    </a>
+
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="{{ .Site.BaseURL }}/harga-baja-ringan/">
+                            Harga Baja Ringan
+                        </a>
+                    </div>
+                </div>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link" href="{{ .Site.BaseURL }}/besi-beton">
+                        Besi Beton
+                    </a>
+
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="{{ .Site.BaseURL }}/harga-besi-beton">
+                            Harga Besi Beton
+                        </a>
+                    </div>
+                </div>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link" href="{{ .Site.BaseURL }}/plat-besi">
+                        Plat Besi
+                    </a>
+
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="{{ .Site.BaseURL }}/harga-plat-baja">
+                            Harga Plat Baja
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="navbar-end">
+            </div>
+        </div>
+    </div>
+</nav>
