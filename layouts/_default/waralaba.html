@@ -1,0 +1,22 @@
+{{ partial "header-default" . }}
+
+<div class="section section-contents section-pad-sm">
+    <div class="container">
+        <div class="content row">
+            <div class="col-md-12 col-lg-12">
+                <h2 class="text-center">{{ .Title }}</h2>
+                <div class="text-center">{{ .Content }}</div>
+                <hr />
+                <p>
+                    Tagar: 
+                    {{ $siteurl := .Site.BaseURL }}
+                    {{ range .Params.tagar }}
+                    #<a href="{{ $siteurl }}tagar/{{ . | urlize }}">{{ . }}</a>  
+                    {{ end }}
+                </p>                
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer" . }}

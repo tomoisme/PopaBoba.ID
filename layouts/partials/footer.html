@@ -1,47 +1,32 @@
-<footer class="footer">
+<!-- Copyright -->
+<div class="copyright">
     <div class="container">
-        <div class="column content">
-            &copy; 2019 PopaBoba.ID - Peluang Usaha Waralaba Thai Tea &amp; Cheese Tea. Raih sukses bersama franchise minuman yang sedang trend dan berkembang pesat.
+        <div class="row">
+            <div class="site-copy col-sm-7">
+                <p>
+                    <a href="{{ .Site.BaseURL }}kebijakan-privasi">Kebijakan Privasi</a> &bull;
+                    <a href="{{ .Site.BaseURL }}sitemap.xml">Peta Situs</a>
+                </p>
+                <p>&copy; 2019 PopaBoba.ID. All rights reserved</p>
+            </div>
+            <div class="site-by col-sm-5 al-right">
+
+            </div>
+
         </div>
     </div>
-</footer>
+</div>
+<!-- End Copyright -->
 
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
+<!-- Preloader !active please if you want -->
+<!-- <div id="preloader"><div id="status">&nbsp;</div></div> -->
+<!-- Preloader End -->
 
-        // Get all "navbar-burger" elements
-        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-
-        // Check if there are any navbar burgers
-        if ($navbarBurgers.length > 0) {
-
-            // Add a click event on each of them
-            $navbarBurgers.forEach(el => {
-                el.addEventListener('click', () => {
-
-                    // Get the target from the "data-target" attribute
-                    const target = el.dataset.target;
-                    const $target = document.getElementById(target);
-
-                    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-                    el.classList.toggle('is-active');
-                    $target.classList.toggle('is-active');
-
-                });
-            });
-        }
-
-    });
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8774212-27"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-8774212-27');
-</script>
+<!-- JavaScript Bundle -->
+<script src="{{ .Site.BaseURL }}js/jquery.bundle.js"></script>
+<!-- Theme Script init() -->
+<script src="{{ .Site.BaseURL }}js/script.js"></script>
+<!-- End script -->
 </body>
 
 </html>

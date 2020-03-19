@@ -1,0 +1,23 @@
+{{ partial "header-default" . }}
+
+<div class="section section-contents section-pad-sm">
+    <div class="container">
+        <div class="content row">
+            <div class="col-md-12 col-lg-12">
+                <h3>{{ .Title }}</h3>
+                <ul>
+                    {{ range .Paginator.Pages }}
+                    <li>
+                        <a href="{{.Permalink}}"> {{.Title}}</a> 
+                        (<small>{{.Date.Format "01 Jan 2006"}}</small>)
+                    </li>
+                    {{ end }}
+                </ul>
+                
+                {{ template "_internal/pagination.html" . }}
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer" . }}

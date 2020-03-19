@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+	<title>{{.Title}}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="{{ .Description }}" />
+
+	<link rel="icon" href="{{ .Site.BaseURL }}image/bisnis-tech-favicon.png" type="image/png" sizes="16x16">
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/vendor.bundle.css">
+	<link id="style-css" rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/style62ea.css?ver=1.2">
+
+	{{ partial "google/analytics" . }}
+</head>
+
+<body class="site-body style-v1">
+	<!-- Header -->
+	<header class="site-header header-s1 is-sticky">
+		{{ partial "top-navigation" . }}
+		<!-- Navbar -->
+		<div class="navbar navbar-primary">
+			<div class="container">
+				<!-- Logo -->
+				{{ partial "logo" . }}
+				<!-- #end Logo -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainnav" aria-expanded="false">
+						<span class="sr-only">Menu</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<!-- Q-Button for Mobile -->
+					<!-- 					
+					<div class="quote-btn">
+						<a class="btn" href="{{ .Site.BaseURL }}/get-a-quote.html">Enquire Today</a>
+					</div>
+					 -->
+				</div>
+				{{ partial "main-navigation" . }}
+			</div>
+		</div>
+		<!-- #end Navbar -->
+	</header>
+	<!-- End Header -->
+	<div style="clear:both; background:#333; height:3px;"></div>
+
+	<div class="section section-pad-custom">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<script>
+						(function () {
+							var cx = '017301228293346466680:dp7xr1ltxti';
+							var gcse = document.createElement('script');
+							gcse.type = 'text/javascript';
+							gcse.async = true;
+							gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+							var s = document.getElementsByTagName('script')[0];
+							s.parentNode.insertBefore(gcse, s);
+						})();
+					</script>
+					<gcse:search></gcse:search>
+				</div>
+			</div>
+		</div>
+	</div>
