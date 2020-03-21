@@ -102,6 +102,10 @@ Kami di Popa Boba sudah menggunakan sistem Point of Sales (POS) untuk menjalanka
 ![Popa Taro](../image/menu-popaboba-popa-taro.jpg)
 ![Popa Gum](../image/menu-popaboba-popa-gum.jpg)
 
+![Lisensi](../image/lisensi.jpg)
+
+**Produk kami sudah bersertifikat HALAL dan terdaftar di BPOM**
+
 <hr>
 
 ![Mitra Popa Boba](../image/mitra-popa-boba-bronze.jpg)
@@ -117,6 +121,10 @@ Kami di Popa Boba sudah menggunakan sistem Point of Sales (POS) untuk menjalanka
 <hr>
 
 ### Keuntungan Bermitra 
+
+![Keuntungan Bergabung Popa Boba](../image/keuntungan-popaboba-01.jpg)
+![Keuntungan Bergabung Popa Boba](../image/keuntungan-popaboba-02.jpg)
+![Keuntungan Bergabung Popa Boba](../image/keuntungan-popaboba-03.jpg)
 
 - Berkesempatan memiliki usaha sendiri
 - Memperoleh alat bantu guna mendukung keberhasilan usaha
@@ -228,6 +236,39 @@ Kuningan Jakarta Selatan
 
 <hr>
 
+### Success Story
+
+**Ibu Jennie - Popa Boba Subang**
+
+Dengan usaha dan kerja keras Beliau kini di outletnya mampu menjual rata-rata 150 cup/ hari
+di bantu dengan 4 orang karyawan.
+
+![Success Story](../image/success-story-01a.jpg)
+![Success Story](../image/success-story-01b.jpg)
+![Success Story](../image/success-story-01c.jpg)
+
+<hr>
+
+**Cen Cen - Popa Boba Belitung**
+
+Berlokasi di Hotel Meigah Belitung, Popa Boba menjadi trend center minuman boba yang banyak diminati. Yang rata-rata penjualannya 70-80 cup/ hari.
+
+![Success Story](../image/success-story-02a.jpg)
+![Success Story](../image/success-story-02b.jpg)
+![Success Story](../image/success-story-02c.jpg)
+
+<hr>
+
+**Bpk. Stephen - Popa Boba Pekalongan**
+
+Hadirnya Popa Boba di Pekalongan membawa suasana baru bagi warga Pekalongan. Kini rata-rata penjualan perhari sekitar 40-50 cup dihari biasa.
+
+![Success Story](../image/success-story-03a.jpg)
+![Success Story](../image/success-story-03b.jpg)
+![Success Story](../image/success-story-03c.jpg)
+
+<hr>
+
 ### Proses Bermitra
 
 Hal pertama yang harus disiapkan oleh calon mitra adalah wajib terlebih dahulu memiliki tempat usaha dan daerah usaha pasti yang strategis serta ramai pengunjung.( Hal ini bertujuan agar skema ROI dapat terpenuhi )
@@ -297,16 +338,30 @@ Sebagai gambarannya adalah sebagai berikut pembayaran DP pada tanggal 21 Maret 2
     <hr>
 </div>
 
+## PENDAFTARAN GOFOOD DAN GRABFOOD
 
 Kami akan langsung daftar GO FOOD dan GRAB FOOD ketika anda buka , dan kami akan terus update instagram Popa Boba agar terus branding dan mempermudah penjualan Popa Boba anda
 
-Di Bulan awal kami akan gunakan iklan Facebook untuk branding dan mendatangkan pengunjung di outlet Popa Boba anda (* syarat ketentuan berlaku)
+Di bulan awal kami akan gunakan iklan Facebook untuk branding dan mendatangkan pengunjung di outlet Popa Boba anda (* syarat ketentuan berlaku)
 
 Ketika omzet anda belum ngangkat kami akan bantu promo via instagram dan iklan Facebook kembali (* syarat ketentuan berlaku)
 
-Soo PASTIKAN Anda Ambil KEMITRAAN Popa Boba
+**Soo PASTIKAN Anda Ambil KEMITRAAN Popa Boba!!!**
 
 Karena jarak kami akan batasi , jika anda dapat tempat terbaik maka selamanya anda kan menikmati hasil ...
 
 Jangan sampai tempat terbaik anda telah diambil orang lain terlebih dahulu
+
+**Rating Rata-Rata Outlet 4.7**
+
+**Gofood Partners**
+
+![Popa Boba Gofood](../image/popaboba-gofood-01.jpg)
+![Popa Boba Gofood](../image/popaboba-gofood-02.jpg)
+![Popa Boba Gofood](../image/popaboba-gofood-03.jpg)
+
+**Grabfood Partners**
+
+![Popa Boba Grabfood](../image/popaboba-grabfood-01.jpg)
+
 
