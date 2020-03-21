@@ -31,7 +31,31 @@ Popa Boba berusaha untuk menjadi bisnis waralaba minuman terbesar, menguntungkan
 
 ### Benefit Popa Boba
 
-**Mengapa harus Popa Boba? Karena kami memiliki beberapa kelebihan dibandingkan produk pesaing kami diantaranya adalah sebagai berikut:**
+**Mengapa harus Popa Boba?**
+
+Apabila anda memulai usaha tanpa melalui join usaha kemitraan.
+Maka hal-hal berikut ini perlu anda ketahui :
+
+**1. Brand**
+
+Harus mambangun Branding dari NOL. Membangun Branding yang bagus tidaklah mudah memerlukan biaya, tenaga dan waktu yang panjang.
+Mulai dari pembuatan Nama dan Pendaftaran Nama Brand, Pembuatan Logo, Design Product Packaging, Design Seragam, Design Corporate ( Invoice, DO, Kwitansi dll) Design Promosi Offline (Brosur, Banner, Buku Menu, Poster dll) Design Promosi Online ( Design Menu Gofood dan Grabfood, Instagram Feed, Facebook Feed, Video)
+
+**2. RnD**
+
+Untuk menghasilkan produk yang berkualitas tinggi dan mampu bersaing di pasar maka dibutuhkan Reaserch and Development saat menciptakan sebuah produk.
+Karena itu apabila join dalam sebuah usaha kemitraan salah satu langkah dalam membangun usaha sudah kita pangkas.
+
+**3. Sertifikasi Produk**
+
+Tidak perlu repot meluangkan waktu untuk mengurus perijinan sertifikasi produk.
+
+**4. Management Lebih Mudah**
+
+Membuat sistem penjualan, menghitung harga modal dan menentukan harga jual produk yang tepat.
+Kami di Popa Boba sudah menggunakan sistem Point of Sales (POS) untuk menjalankan kegiatan penjualan di outlet kami. Sistem kasir dan manajemen penjualan lebih tertata rapi sehingga dapat dengan mudah menganalisa kerugian ataupun keuntungan yang diperoleh.
+
+**Bayangkan Modal, Waktu dan Tenaga untuk memulai semua dari awal**
 
 ![mudah dijalankan](../image/popaboba-mudah-dijalankan.jpg)
 ![friendly royalty fee](../image/popaboba-royalty-fee.jpg)
@@ -276,13 +300,13 @@ Sebagai gambarannya adalah sebagai berikut pembayaran DP pada tanggal 21 Maret 2
 
 Kami akan langsung daftar GO FOOD dan GRAB FOOD ketika anda buka , dan kami akan terus update instagram Popa Boba agar terus branding dan mempermudah penjualan Popa Boba anda
 
-Di Bulan awal kami akan gunakan iklan Facebook untuk branding dan mendatangkan pengunjung di outlet Popa Boba anda
+Di Bulan awal kami akan gunakan iklan Facebook untuk branding dan mendatangkan pengunjung di outlet Popa Boba anda (* syarat ketentuan berlaku)
 
-Ketika omzet anda belum ngangkat kami akan bantu promo via instagram dan iklan Facebook kembali * syarat ketentuan berlaku
+Ketika omzet anda belum ngangkat kami akan bantu promo via instagram dan iklan Facebook kembali (* syarat ketentuan berlaku)
 
 Soo PASTIKAN Anda Ambil KEMITRAAN Popa Boba
 
-karena jarak kami akan batasi , jika anda dapat tempat terbaik maka selamanya anda kan menikmati hasil ..
+Karena jarak kami akan batasi , jika anda dapat tempat terbaik maka selamanya anda kan menikmati hasil ...
 
-Jangan sampai tempat terbaik Anda telah diambil orang lain terlebih dahulu
+Jangan sampai tempat terbaik anda telah diambil orang lain terlebih dahulu
 
