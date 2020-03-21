@@ -241,7 +241,7 @@ Kuningan Jakarta Selatan
 **Ibu Jennie - Popa Boba Subang**
 
 Dengan usaha dan kerja keras Beliau kini di outletnya mampu menjual rata-rata 150 cup/ hari
-di bantu dengan 4 orang karyawan.
+dibantu dengan 4 orang karyawan.
 
 ![Success Story](../image/success-story-01a.jpg)
 ![Success Story](../image/success-story-01b.jpg)
