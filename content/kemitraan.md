@@ -11,11 +11,11 @@ tagar:
 - bisnis kuliner
 ---
 
-### Tentang Popa Boba - Signature Bubble Cheese
+### Tentang Popa Boba - Signature Boba Cheese
 
-Minuman dengan campuran boba atau cream cheese adalah minuman yang trending dan sangat digandrungi oleh kaum millenial.
-Popa Boba merupakan salah satu usaha yang bergerak di bidang kuliner minuman boba dan Cheese. 
-Popa Boba berusaha untuk menjadi bisnis waralaba minuman terbesar, menguntungkan dan paling dipercaya oleh para mitra. Popa Boba menawarkan minuman yang enak dan segar dengan bahan baku berkualitas tinggi namun dengan harga yang terjangkau serta memberikan pelayanan yang memuaskan untuk para mitra dan pelanggan Popa Boba.
+Minuman dengan campuran boba atau cream cheese adalah minuman yang populer dan sangat digemari oleh kaum millenial.
+Popa Boba merupakan salah satu usaha yang bergerak di bidang kuliner minuman boba dan cheese. 
+Popa Boba berusaha untuk menjadi bisnis waralaba minuman terbaik, menguntungkan dan paling dipercaya oleh para mitra. Popa Boba menawarkan minuman yang enak dan segar dengan bahan baku berkualitas tinggi namun dengan harga yang terjangkau serta memberikan pelayanan yang memuaskan untuk para mitra dan pelanggan Popa Boba.
 <hr>
 
 ### FLEI (Franchise and License Expo Indonesia) 2019 at Jakarta Convention Center
@@ -38,17 +38,17 @@ Maka hal-hal berikut ini perlu anda ketahui :
 
 **1. Brand**
 
-Harus mambangun Branding dari NOL. Membangun Branding yang bagus tidaklah mudah memerlukan biaya, tenaga dan waktu yang panjang.
-Mulai dari pembuatan Nama dan Pendaftaran Nama Brand, Pembuatan Logo, Design Product Packaging, Design Seragam, Design Corporate ( Invoice, DO, Kwitansi dll) Design Promosi Offline (Brosur, Banner, Buku Menu, Poster dll) Design Promosi Online ( Design Menu Gofood dan Grabfood, Instagram Feed, Facebook Feed, Video)
+Harus mambangun branding dari NOL. Membangun branding yang bagus tidaklah mudah memerlukan banyak biaya, tenaga dan waktu yang panjang.
+Mulai dari pembuatan Nama dan Pendaftaran Nama Brand ke instansi pemerintahan, Pembuatan Logo, Design Product Packaging, Design Seragam, Design Corporate ( Invoice, DO, Kwitansi dll) Design Promosi Offline (Brosur, Banner, Buku Menu, Poster dll) Design Promosi Online ( Design Menu Gofood dan Grabfood, Instagram Feed, Facebook Feed, Video)
 
 **2. RnD**
 
 Untuk menghasilkan produk yang berkualitas tinggi dan mampu bersaing di pasar maka dibutuhkan Reaserch and Development saat menciptakan sebuah produk.
-Karena itu apabila join dalam sebuah usaha kemitraan salah satu langkah dalam membangun usaha sudah kita pangkas.
+Karena itu apabila join dalam sebuah usaha kemitraan kita sudah memangkas langkah yang memakan waktu dan biaya ini.
 
 **3. Sertifikasi Produk**
 
-Tidak perlu repot meluangkan waktu untuk mengurus perijinan sertifikasi produk.
+Tidak perlu repot meluangkan waktu untuk mengurus perijinan sertifikasi produk. Produk Popa Boba sudah bersertifikat halal MUI dan terdaftar di Badan Pengawas Obat dan Makanan (BPOM)
 
 **4. Management Lebih Mudah**
 
@@ -68,6 +68,8 @@ Kami di Popa Boba sudah menggunakan sistem Point of Sales (POS) untuk menjalanka
 <hr>
 
 ### Varian Menu Popa Boba
+
+Terdiri dari 5 kategori bahan yaitu : Teh, Coklat, Kopi, Milk Tea dan Milk Mix (Campuran Susu dengan Variasi Rasa)  
 
 **Varian Teh**
 
@@ -269,26 +271,31 @@ Hadirnya Popa Boba di Pekalongan membawa suasana baru bagi warga Pekalongan. Kin
 
 <hr>
 
-### Proses Bermitra
+![Proses Mitra](../image/proses-mitra-popaboba-01.jpg)
+![Proses Mitra](../image/proses-mitra-popaboba-02.jpg)
+![Proses Mitra](../image/proses-mitra-popaboba-03.jpg)
+![Proses Mitra](../image/proses-mitra-popaboba-04.jpg)
+
+## Proses Bermitra
 
 Hal pertama yang harus disiapkan oleh calon mitra adalah wajib terlebih dahulu memiliki tempat usaha dan daerah usaha pasti yang strategis serta ramai pengunjung.( Hal ini bertujuan agar skema ROI dapat terpenuhi )
 
-**Calon mitra wajib untuk memberikan informasikan sebagai berikut :**
+**Calon mitra wajib untuk memberikan informasi sebagai berikut :**
 
 * 1. Nama :
 * 2. No. HP (WA):
 * 3. Email :
 * 4. Sertakan foto/scan KTP
-* 5. Alamat lokasi usaha (Untuk lokasi usaha yang sudah terdapat mitra popa boba akan ditolak)
-* 6. Foto lokasi usaha dalam beberapa sisi ( minimal 5 )
+* 5. Alamat lokasi usaha (Untuk lokasi usaha radius 1-2km yang sudah terdapat mitra popa boba akan otomatis ditolak)
+* 6. Foto lokasi usaha dalam beberapa sisi/ sudut berbeda ( minimal 5 foto)
 
 Data dikirim ke alamat email **popaboba.id@gmail.com**
 
 **Dalam waktu 1x24 jam data akan diproses seleksi terlebih dahulu.** 
-**Apabila memenuhi syarat maka kami akan mengirimkan pesan melalui WA atau Email**
+**Apabila memenuhi syarat maka kami akan mengirimkan pesan melalui WA atau Email anda**
 
 Proses berikutnya adalah Online Briefing.
-Untuk Online Briefing akan diberikan Starterkit Digital dan calon mitra diwajibkan untuk membayar biaya pendaftaran terlebih dahulu sebesar Rp.100.000,- ( Seratus Ribu Rupiah ) di transfer ke rek BCA (tercantum dalam invoice yang dikirim)
+Untuk Online Briefing calon mitra akan diberikan Starterkit Digital dan calon mitra diwajibkan untuk membayar biaya pendaftaran terlebih dahulu sebesar Rp.100.000,- ( Seratus Ribu Rupiah ) di transfer ke rek BCA (tercantum dalam invoice yang dikirim)
 
 Saat online briefing mitra akan diberikan pilihan paket usaha yang dapat dipilih, setelah mitra memilih paket usaha yang sesuai maka dapat segera mentandatangani kontrak perjanjian kerjasama bermaterai yang terangkum dalam starter kit.
 (perjanjian kerjasama yang telah ditandatangani diatas materai harus dikirim via pos ke alamat kantor pusat) 
@@ -296,10 +303,14 @@ Kontrak kerjasama untuk mitra yang ditandatangani oleh franchisor akan diberikan
 
 Mitra diwajibkan membayar DP saat penandatanganan kontrak kerjasama, besarnya DP disesuaikan dengan paket usaha yang dipilih.
 
+Mitra wajib memberikan pelunasan paket usaha paling lambat H-1 sebelum paket dikirim ke lokasi tempat usaha.
+
 Proses persiapan pengiriman paket usaha setelah DP ditransfer sekitar 14 hari kerja (tanggal merah/ hari libur tidak terhitung). 
 ![Date Delivery](../image/date-delivery.jpg)
 
 Sebagai gambarannya adalah sebagai berikut pembayaran DP pada tanggal 21 Maret 2020, dalam rentang waktu 14 hari kedepan sejak tanggal 21 Maret 2020 terdapat 3 tanggal merah/ hari libur maka pengiriman paket usaha dikisaran tanggal 6 atau 7 April 2020
+
+![Cara Kemitraan Popa Boba](../image/proses-bermitra-popaboba.jpg)
 
 <hr>
 
