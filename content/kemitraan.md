@@ -306,11 +306,11 @@ Mitra diwajibkan membayar DP saat penandatanganan kontrak kerjasama, besarnya DP
 Mitra wajib memberikan pelunasan paket usaha paling lambat H-1 sebelum paket dikirim ke lokasi tempat usaha.
 
 Proses persiapan pengiriman paket usaha setelah DP ditransfer sekitar 14 hari kerja (tanggal merah/ hari libur tidak terhitung). 
+
+
+Sebagai gambarannya adalah seperti berikut ini pembayaran DP pada tanggal 21 Maret 2020, dalam rentang waktu 14 hari kedepan sejak tanggal 21 Maret 2020 terdapat 3 tanggal merah/ hari libur maka pengiriman paket usaha dikisaran tanggal 6 atau 7 April 2020
+
 ![Date Delivery](../image/date-delivery.jpg)
-
-Sebagai gambarannya adalah sebagai berikut pembayaran DP pada tanggal 21 Maret 2020, dalam rentang waktu 14 hari kedepan sejak tanggal 21 Maret 2020 terdapat 3 tanggal merah/ hari libur maka pengiriman paket usaha dikisaran tanggal 6 atau 7 April 2020
-
-![Cara Kemitraan Popa Boba](../image/proses-bermitra-popaboba.jpg)
 
 <hr>
 
@@ -347,7 +347,10 @@ Sebagai gambarannya adalah sebagai berikut pembayaran DP pada tanggal 21 Maret 2
                     </li>
     </p>
     <hr>
+    <br>
 </div>
+
+![Cara Kemitraan Popa Boba](../image/proses-bermitra-popaboba.jpg)
 
 ## PENDAFTARAN GOFOOD DAN GRABFOOD
 
